@@ -46,6 +46,7 @@ localhost:5000/api/goals
 
 ```
 
-![Untitled](Learn%20The%20MERN%20Stack%20-%20Express%20&%20MongoDB%20Rest%20API%2008ae53cb3aaa4dc7ba66a25d6114dec5/Untitled.png)
 
-![Untitled](Learn%20The%20MERN%20Stack%20-%20Express%20&%20MongoDB%20Rest%20API%2008ae53cb3aaa4dc7ba66a25d6114dec5/Untitled%201.png)
+
+
+
