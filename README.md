@@ -46,6 +46,7 @@ localhost:5000/api/goals
 
 ```
 
+![image](https://user-images.githubusercontent.com/66215236/213087218-72cab34a-5036-4011-a552-59bc0223b784.png)
 
 
 
